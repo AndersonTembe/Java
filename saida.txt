@@ -1,0 +1,101 @@
+a:
+	all, 2;
+	away, 1;
+	and, 3;
+	another, 3;
+	around, 1;
+b:
+	but, 3;
+	been, 1;
+	believes, 1;
+	believer, 1;
+	bleed, 1;
+c:
+	calm, 1;
+	comes, 2;
+	come, 1;
+	close, 1;
+	closer, 1;
+d:
+	delicate, 1;
+	dream, 1;
+	day, 1;
+	down, 4;
+	dont, 3;
+	deceive, 1;
+e:
+	end, 1;
+f:
+	find, 2;
+	for, 1;
+	feel, 2;
+	feeling, 1;
+g:
+	getting, 1;
+	give, 2;
+	grip, 1;
+	ghost, 1;
+h:
+	hidden, 2;
+	hate, 2;
+	hey, 2;
+	hold, 1;
+i:
+	ive, 1;
+	its, 1;
+j:
+	just, 1;
+k:
+	knees, 1;
+	keepin, 2;
+l:
+	love, 2;
+	leaves, 1;
+	leads, 1;
+	lose, 1;
+	let, 2;
+	life, 2;
+	long, 1;
+m:
+	most, 1;
+n:
+	never, 2;
+	need, 1;
+	nothing, 2;
+	night, 1;
+o:
+	over, 2;
+	one, 6;
+p:
+	prize, 1;
+r:
+	reason, 1;
+	rope, 1;
+	resist, 1;
+s:
+	such, 1;
+	see, 1;
+	satisfies, 1;
+	sleeve, 2;
+	searching, 1;
+	something, 4;
+t:
+	the, 8;
+	that, 1;
+	taken, 1;
+	there, 1;
+	taste, 2;
+	twist, 1;
+w:
+	waste, 2;
+	with, 1;
+	what, 1;
+	will, 2;
+	weight, 2;
+	when, 3;
+	wrist, 1;
+	who, 1;
+y:
+	youve, 1;
+	your, 1;
+	you, 1;

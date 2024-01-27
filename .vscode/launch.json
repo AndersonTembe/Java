@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "POO2223",
+            "request": "launch",
+            "mainClass": "Recurso.POO2223",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Aula13.Principal",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Aula12.Main",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Treino.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Aula12.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula12.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula11.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "Aula10.Ex03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula10.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "CollectionTester",
+            "request": "launch",
+            "mainClass": "Aula09.CollectionTester",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "AlDemo",
+            "request": "launch",
+            "mainClass": "Aula09.AlDemo",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex20",
+            "request": "launch",
+            "mainClass": "Treino.Ex20",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Aula08.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula08.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "LibraryMain",
+            "request": "launch",
+            "mainClass": "LibraryMain",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "ContactoM",
+            "request": "launch",
+            "mainClass": "Aula06.ContactoM",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula06.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Aula05.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula05.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCarDemo",
+            "request": "launch",
+            "mainClass": "Aula04.SimpleCarDemo",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "cashRegistorDemo",
+            "request": "launch",
+            "mainClass": "Aula04.cashRegistorDemo",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "CashRegisterDemo",
+            "request": "launch",
+            "mainClass": "Aula04.CashRegisterDemo",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "Aula04.Ex03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "Aula03.Ex05",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Aula03.Ex04",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "Aula03.Ex03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Aula03.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex07",
+            "request": "launch",
+            "mainClass": "Treino.Ex07",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Aula01.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "KmToMiles",
+            "request": "launch",
+            "mainClass": "Aula01.KmToMiles",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstClass",
+            "request": "launch",
+            "mainClass": "Aula01.MyFirstClass",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "PescaDeRabiBoca",
+            "request": "launch",
+            "mainClass": "Aula01.PescaDeRabiBoca",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "ReadFile",
+            "request": "launch",
+            "mainClass": "Aula01.ReadFile",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "Aula01.String",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01(1)",
+            "request": "launch",
+            "mainClass": "Aula02.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Aula02.Ex02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "Aula02.Ex03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Aula02.Ex04",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "Aula02.Ex05",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "Aula02.Ex06",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex07",
+            "request": "launch",
+            "mainClass": "Aula02.Ex07",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex08",
+            "request": "launch",
+            "mainClass": "Aula02.Ex08",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "Aula02.Ex09",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "Aula02.Ex10",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex11",
+            "request": "launch",
+            "mainClass": "Aula02.Ex11",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01(2)",
+            "request": "launch",
+            "mainClass": "Aula03.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex01(3)",
+            "request": "launch",
+            "mainClass": "Treino.Ex01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex03(1)",
+            "request": "launch",
+            "mainClass": "Treino.Ex03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex04(1)",
+            "request": "launch",
+            "mainClass": "Treino.Ex04",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Ex05(1)",
+            "request": "launch",
+            "mainClass": "Treino.Ex05",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino01",
+            "request": "launch",
+            "mainClass": "Treino.Treino01",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino02",
+            "request": "launch",
+            "mainClass": "Treino.Treino02",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino03",
+            "request": "launch",
+            "mainClass": "Treino.Treino03",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino04",
+            "request": "launch",
+            "mainClass": "Treino.Treino04",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino05",
+            "request": "launch",
+            "mainClass": "Treino.Treino05",
+            "projectName": "POO_b868229c"
+        },
+        {
+            "type": "java",
+            "name": "Treino06",
+            "request": "launch",
+            "mainClass": "Treino.Treino06",
+            "projectName": "POO_b868229c"
+        }
+    ]
+}
